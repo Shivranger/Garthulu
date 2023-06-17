@@ -1,0 +1,19 @@
+{
+  "name": "garthulu",
+  "version": "0.0.1",
+  "description": "Discord bot for unholy Garfield fun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Garfield",
+    "discord-bot"
+  ],
+  "author": "Scytheripper",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
