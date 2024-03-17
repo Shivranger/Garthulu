@@ -7,4 +7,4 @@
 
 
 ## Running the bot locally
-Run `deploy-commangds.js` before starting the bot with `npm start`. 
+Run `node deploy-commands.js` before starting the bot with `npm start`. 
