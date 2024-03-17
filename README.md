@@ -4,3 +4,7 @@
 *I'm sorry Jon...*
 
 ### Built with https://discordjs.guide
+
+
+## Running the bot locally
+Run `deploy-commangds.js` before starting the bot with `npm start`. 
