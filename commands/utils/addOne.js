@@ -11,7 +11,6 @@ module.exports = {
         ),
 	async execute(interaction) {
         let arg = interaction.options.getNumber('number');
-        console.log(arg)
 		await interaction.reply(`${arg + 1}`);
 	},
 };
