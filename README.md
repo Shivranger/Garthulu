@@ -1,5 +1,5 @@
 # Garthulu Discord Bot
-### Future features will be listed here
+### Simple bot template to be forked for future bots.
 ![alt text](https://s3.crackedcdn.com/phpimages/article/2/6/0/692260.jpg?v=2)\
 *I'm sorry Jon...*
 
@@ -7,5 +7,6 @@
 
 
 ## Running the bot locally
-Run `node deploy-commands.js` before starting the bot with `npm start`. 
-Use `npm laucnh` for both.
+Deploy command: `node deploy-commands.js` 
+Start thebot: `npm start`
+Or use `npm launch` for both.
