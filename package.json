@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "node deploy-commands.js",
-    "launch": "npm run deploy && npm start"
+    "spawn": "npm run deploy && npm start"
   },
   "keywords": [
     "Garfield",

@@ -24,7 +24,6 @@ module.exports = {
 			.setRequired(true)
         ),
 	async execute(interaction) {
-        console.log({interaction})
 		await interaction.reply(ninetyPercentYes());
 	},
 };
