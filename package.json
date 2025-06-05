@@ -16,7 +16,6 @@
   "author": "Scytheripper",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.11.0",
-    "garfieldjs": "^1.0.0"
+    "discord.js": "^14.11.0"
   }
 }
