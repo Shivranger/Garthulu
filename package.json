@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "deploy": "node deploy-commands.js",
     "spawn": "npm run deploy && npm start"
   },
@@ -17,5 +17,8 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
   }
 }
