@@ -8,4 +8,4 @@
 ## Running the bot locally
 Run `node deploy-commands.js` before starting the bot with `npm start`.
 
-Use `npm launch` for both.
+Use `npm spawn` for both.
