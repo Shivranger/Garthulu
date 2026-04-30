@@ -1,4 +1,4 @@
-const spongebobifyCommand = require('./spongebobify');
+const spongebobifyCommand = require('../spongebobify');
 
 describe('Spongebobify Command', () => {
     let mockInteraction;

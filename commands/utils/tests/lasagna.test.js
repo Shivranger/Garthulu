@@ -1,4 +1,4 @@
-const lasagnaCommand = require('./lasagna');
+const lasagnaCommand = require('../lasagna');
 
 describe('Lasagna Command', () => {
     let mockInteraction;
